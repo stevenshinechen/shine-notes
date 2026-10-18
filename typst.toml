@@ -1,0 +1,12 @@
+[package]
+name = "shine-notes"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Steven-Shine Chen"]
+license = "CC-BY-SA-4.0"
+description = "Technical books with theorem boxes and plotting utilities."
+categories = ["book"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
